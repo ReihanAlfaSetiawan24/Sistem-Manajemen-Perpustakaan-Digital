@@ -1,0 +1,39 @@
+## DATA PERPUSTAKAAN
+## ID | Nama Buku                         | Kategori   | Penulis                     | Tahun | Status
+## TOTAL DATA: 36
+1  | Laskar Pelangi                    | Novel      | Andrea Hirata               | 2005  | available
+2  | Bumi                              | Fantasi    | Tere Liye                   | 2014  | available
+3  | Negeri 5 Menara                   | Novel      | Ahmad Fuadi                 | 2009  | available
+4  | Dilan 1990                        | Romance    | Pidi Baiq                   | 2014  | available
+5  | Ayat Ayat Cinta                   | Religi     | Habiburrahman El Shirazy    | 2004  | available
+6  | Harry Potter                      | Fantasi    | J.K Rowling                 | 1997  | borrowed
+7  | Atomic Habits                     | Motivasi   | James Clear                 | 2018  | available
+8  | Rich Dad Poor Dad                 | Bisnis     | Robert Kiyosaki             | 1997  | borrowed
+9  | Filosofi Teras                    | Filsafat   | Henry Manampiring           | 2018  | available
+10 | Pulang                            | Novel      | Tere Liye                   | 2015  | available
+11 | Hujan                             | Fantasi    | Tere Liye                   | 2016  | available
+12 | Selena                            | Fantasi    | Tere Liye                   | 2020  | available
+13 | Mariposa                          | Romance    | Luluk HF                    | 2018  | borrowed
+14 | 5 CM                              | Inspirasi  | Donny Dhirgantoro           | 2005  | available
+15 | Ronggeng Dukuh Paruk              | Sastra     | Ahmad Tohari                | 1982  | available
+16 | Perahu Kertas                     | Romance    | Dee Lestari                 | 2009  | available
+17 | Koala Kumal                       | Komedi     | Raditya Dika                | 2015  | available
+18 | Kambing Jantan                    | Komedi     | Raditya Dika                | 2005  | borrowed
+19 | Bumi Manusia                      | Sastra     | Pramoedya Ananta Toer       | 1980  | available
+20 | Si Anak Cahaya                    | Novel      | Tere Liye                   | 2018  | available
+21 | The Psychology of Money           | Keuangan   | Morgan Housel               | 2020  | available
+22 | Sebuah Seni untuk Bersikap Bodo Amat | Motivasi | Mark Manson              | 2016  | borrowed
+23 | Think and Grow Rich               | Bisnis     | Napoleon Hill               | 1937  | available
+24 | The Hobbit                        | Fantasi    | J.R.R Tolkien               | 1937  | available
+25 | One Piece Vol 1                   | Komik      | Eiichiro Oda                | 1997  | available
+26 | Naruto Vol 1                      | Komik      | Masashi Kishimoto           | 1999  | available
+27 | Dragon Ball Vol 1                 | Komik      | Akira Toriyama              | 1984  | borrowed
+28 | Death Note Vol 1                  | Komik      | Tsugumi Ohba                | 2003  | available
+29 | Detective Conan Vol 1             | Komik      | Gosho Aoyama                | 1994  | available
+30 | Kimia Dasar                       | Pendidikan | Raymond Chang               | 2010  | available
+31 | Fisika Dasar                      | Pendidikan | Halliday                    | 2012  | available
+32 | Matematika Diskrit                | Pendidikan | Kenneth Rosen               | 2011  | available
+33 | Algoritma dan Pemrograman         | Teknologi  | Rinaldi Munir               | 2018  | available
+34 | Basis Data                        | Teknologi  | Abdul Kadir                 | 2014  | borrowed
+35 | Jaringan Komputer                 | Teknologi  | Andrew S Tanenbaum          | 2011  | available
+36 | Sistem Operasi                    | Teknologi  | Silberschatz                | 2013  | available
